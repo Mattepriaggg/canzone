@@ -13,7 +13,7 @@ function controllaParolakk08765hh2() {
         window.location.href = "pass-3.html";
     } else {
         alert("Riprova dall' inizio!");
-        window.location.href = "pass-1.html";
+        window.location.href = "index.html";
     }
 }
 
